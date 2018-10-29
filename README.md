@@ -28,7 +28,7 @@ Notes
 ---
 
 - Authentication support is built-in, with suppory for HTTP Basic, OAuth 1.0, OAuth 2.0, Windows, Digest, Google, and more. See [Authentication](https://github.com/VBA-tools/VBA-Web/wiki/Authentication) for more information
-- For proxy environments, `Client.EnabledAutoProxy = True` will automatically load proxy settings
+- For proxy environments, `Client.EnableAutoProxy = True` will automatically load proxy settings
 - Support for custom request and response formats. See [RegisterConverter](http://vba-tools.github.io/VBA-Web/docs/#/WebHelpers/RegisterConverter)
 
 Examples
